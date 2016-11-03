@@ -1,2 +1,2 @@
 # awesomegame
-my first iOS applixation
+my first iOS application
